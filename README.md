@@ -5,14 +5,14 @@ This project demonstrates SQL-based analysis on sales data using `Orders` and `C
 ## 📂 Project Structure
 
 /SalesAnalyticsSQL
-├── data/
+"├── data/
 │ ├── customers.csv
 │ └── orders.csv
 ├── queries/
 │ ├── top_products.sql
 │ ├── revenue_by_region.sql
 │ ├── repeat_customers.sql
-├── README.md
+├── README.md"
 
 
 ## 📊 Objective
