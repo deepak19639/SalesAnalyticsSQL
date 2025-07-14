@@ -3,17 +3,17 @@
 This project demonstrates SQL-based analysis on sales data using `Orders` and `Customers` datasets.
 
 ## 📂 Project Structure
-
-/SalesAnalyticsSQL
-"├── data/
+'''
+/SalesAnalyticsSQL/
+├── data/
 │ ├── customers.csv
 │ └── orders.csv
 ├── queries/
 │ ├── top_products.sql
 │ ├── revenue_by_region.sql
 │ ├── repeat_customers.sql
-├── README.md"
-
+├── README.md
+'''
 
 ## 📊 Objective
 Perform analytics on sales data to derive business insights like:
