@@ -1,0 +1,7 @@
+order_id,customer_id,product_name,quantity,price_per_unit,order_date
+O1001,C001,Laptop,1,50000,2023-01-10
+O1002,C001,Mouse,2,500,2023-01-11
+O1003,C002,Keyboard,1,1000,2023-02-05
+O1004,C003,Laptop,1,50000,2023-02-10
+O1005,C004,Monitor,1,12000,2023-03-01
+O1006,C001,Mouse,1,500,2023-03-15
