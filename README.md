@@ -4,7 +4,7 @@ This project demonstrates SQL-based analysis on sales data using `Orders` and `C
 
 ## 📂 Project Structure
 
-/SalesAnalyticsSQL/
+/SalesAnalyticsSQL
 ├── data/
 │ ├── customers.csv
 │ └── orders.csv
